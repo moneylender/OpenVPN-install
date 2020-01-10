@@ -119,6 +119,7 @@ The script supports these OS and architectures:
 | Ubuntu 16.04   |  ✅  |  ✅  |   ❌  |   ❌  |
 | Ubuntu 18.04   |  ❌  |  ✅  |   ✅  |   ✅  |
 | Ubuntu 19.04   |  ❌  |  ✅  |   ✅  |   ✅  |
+| Ubuntu 19.10   |  ❌  |  ✅  |   ❔  |   ❔  |
 
 To be noted:
 
